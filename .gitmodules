@@ -1,0 +1,3 @@
+[submodule "app/Plugin/TwigView"]
+	path = app/Plugin/TwigView
+	url = https://github.com/predominant/TwigView.git

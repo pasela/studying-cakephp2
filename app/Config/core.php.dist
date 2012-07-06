@@ -20,6 +20,11 @@
  */
 
 /**
+ * TwigView cache directory.
+ */
+	define('TWIG_VIEW_CACHE', APP . '/tmp/cache/views');
+
+/**
  * CakePHP Debug Level:
  *
  * Production Mode:
